@@ -1,3 +1,4 @@
+
 **DEPRECATION NOTICE:**
 
 Smooth Scroll is, without a doubt, my most popular and widely used plugin.
